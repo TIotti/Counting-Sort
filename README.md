@@ -1,3 +1,3 @@
 # bitwise sort C++
 
-Built using GCC
+Built using C++17
