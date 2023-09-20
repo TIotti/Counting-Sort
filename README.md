@@ -1,6 +1,6 @@
-# bitwise sort
+# Counting sort
 
-The Bitwise Sort is a fast way to look for the same entry key on two given sets.
+The Counting Sort is a fast way to look for the same entry key on two given sets.
 
 It relies on mark from which set each key will came from at insert time.
 
